@@ -1,3 +1,3 @@
 #!/usr/bin/env ruby
 
-puts /a-zA-Z/
+puts /A-za-z/
